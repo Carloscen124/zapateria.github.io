@@ -1,0 +1,22 @@
+.jumbotron-bg {
+  background-image: url('../img/cuero.jpg');
+  background-size: cover;
+  background-position: center;
+  color: black;
+}
+
+.btn-secondary {
+  background-color: #F1D8AF; /* Cambia el color del botón a rojo */
+  border-color: #F1D8AF; /* Cambia el color del borde del botón a rojo */
+  color: black;
+}
+
+.footer-column {
+  margin-bottom: -10px;
+}
+
+.logo {
+  max-width: 100%;
+  height: 150px;
+  margin-bottom: 20px;
+}
